@@ -1,0 +1,12 @@
+@import 'abstract/utilities';
+@import 'abstract/variables';
+@import 'components/main';
+@import 'components/footer';
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: $body-bg-color;
+}

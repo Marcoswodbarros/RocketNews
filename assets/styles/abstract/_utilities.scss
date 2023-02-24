@@ -1,0 +1,7 @@
+@mixin textStyle {
+    color: $text-color;
+    font-family: $spartan;
+    line-height: 1.2rem;
+    text-align: center;
+    width: 80%;
+}
