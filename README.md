@@ -1,4 +1,4 @@
-# Landing Pages - RocketNews
+# Rocketseat Challenge - RocketNews
 
 This is my second challenge from the Rocketseat.
 
@@ -35,6 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Marcoswodbarros/RocketNews.git]
+- Deploy: [https://marcoswodbarros.github.io/RocketNews/]
 
 
 ## My process
